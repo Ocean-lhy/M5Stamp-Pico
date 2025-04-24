@@ -1,0 +1,8 @@
+build/
+.vscode/
+.DS_Store
+managed_components/
+sdkconfig
+sdkconfig.old
+
+*.bin
